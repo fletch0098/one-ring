@@ -15,3 +15,8 @@ lumberjack/
 reports/
 siteconfig/
 tagfield/
+.editorconfig
+.htaccess
+index.php
+install-frameworkmissing.html
+web.config
